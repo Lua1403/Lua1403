@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 
 - 🌱 Currently learning SQL and Python
 <!--
